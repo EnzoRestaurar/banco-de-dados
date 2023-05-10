@@ -1,0 +1,7 @@
+CREATE DATABASE IF NOT EXISTS lanchonete;
+
+USE lanchonete;
+
+SHOW TABLES;
+
+CREATE TABLE IF NOT EXISTS  Lanches
